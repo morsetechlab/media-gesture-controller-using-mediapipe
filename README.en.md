@@ -20,8 +20,10 @@ The system is designed for Human-Computer Interaction (HCI), real-time Computer 
 ## Usage Example
 
 <div align="center">
-  <img src="images/output.gif" style="max-width: 100%; height: auto;" />
+  <img src="images/output.gif" style="width: 100%; height: auto;" />
 </div>
+
+<br/>
 
 ▶️ Watch Full Demo on [YouTube](https://youtu.be/qh72NVBzAxE)
 
