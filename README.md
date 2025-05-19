@@ -23,6 +23,8 @@
   <img src="images/output.gif" style="max-width: 100%; height: auto;" />
 </div>
 
+▶️ ชมวิดีโอสาธิตแบบเต็ม ได้ที่ [YouTube](https://youtu.be/qh72NVBzAxE)
+
 ---
 
 ## Key Feature
@@ -130,8 +132,9 @@ media-gesture-controller-using-mediapipe/
 ---
 
 ## Attribution
-Gesture Controller by [MediaPipe](https://mediapipe.dev/)
-Developed by [MorseTech Lab](https://www.morsetechlab.com/)
+
+- Gesture recognition powered by [MediaPipe](https://mediapipe.dev/)  
+- Developed by [MorseTech Lab](https://www.morsetechlab.com/)
 
 ---
 

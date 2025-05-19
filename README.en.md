@@ -23,6 +23,8 @@ The system is designed for Human-Computer Interaction (HCI), real-time Computer 
   <img src="images/output.gif" style="max-width: 100%; height: auto;" />
 </div>
 
+▶️ Watch Full Demo on [YouTube](https://youtu.be/qh72NVBzAxE)
+
 ---
 
 ## Key Features
@@ -131,8 +133,8 @@ This gesture controller system can be extended in various directions:
 
 ## Attribution
 
-Gesture recognition powered by [MediaPipe](https://mediapipe.dev/)  
-Developed by [MorseTech Lab](https://www.morsetechlab.com/)
+- Gesture recognition powered by [MediaPipe](https://mediapipe.dev/)  
+- Developed by [MorseTech Lab](https://www.morsetechlab.com/)
 
 ---
 
