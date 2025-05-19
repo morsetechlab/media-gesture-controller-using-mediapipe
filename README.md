@@ -105,7 +105,7 @@ media-gesture-controller-using-mediapipe/
 
 ---
 
-## MediaPipe Hand Landmark
+## MediaPipe Hand Landmark Reference
 
 [MediaPipe documentation](https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker/python)
 
